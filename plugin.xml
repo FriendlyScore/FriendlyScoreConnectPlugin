@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="com.friendlyscore.connect.cordova.plugin" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+<name>FriendlyScoreConnectPlugin</name>
+<js-module name="FriendlyScoreConnectPlugin" src="www/FriendlyScoreConnectPlugin.js">
+<clobbers target="cordova.plugins.FriendlyScoreConnectPlugin" />
+</js-module><platform name="android"><config-file parent="/*" target="res/xml/config.xml">
+<feature name="FriendlyScoreConnectPlugin">
+<param name="android-package" value="com.friendlyscore.connect.cordova.plugin.FriendlyScoreConnectPlugin" />
+</feature>
+</config-file><config-file parent="/*" target="AndroidManifest.xml"></config-file>
+<source-file src="src/android/app/src/main/java/com/friendlyscore/connect/cordova/plugin/FriendlyScoreConnectPlugin.java" target-dir="src/android/app/src/main/java/com/friendlyscore/connect/cordova/plugin/FriendlyScoreConnectPlugin" /></platform></plugin>

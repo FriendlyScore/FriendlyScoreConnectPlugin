@@ -1,0 +1,17 @@
+{
+  "name": "com.friendlyscore.connect.cordova.plugin",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "com.friendlyscore.connect.cordova.plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}

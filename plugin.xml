@@ -8,4 +8,17 @@
 <param name="android-package" value="com.friendlyscore.connect.cordova.plugin.FriendlyScoreConnectPlugin" />
 </feature>
 </config-file><config-file parent="/*" target="AndroidManifest.xml"></config-file>
-<source-file src="src/android/app/src/main/java/com/friendlyscore/connect/cordova/plugin/FriendlyScoreConnectPlugin.java" target-dir="src/android/app/src/main/java/com/friendlyscore/connect/cordova/plugin/FriendlyScoreConnectPlugin" /></platform></plugin>
+<source-file src="src/android/app/src/main/java/com/friendlyscore/connect/cordova/plugin/FriendlyScoreConnectPlugin.java" target-dir="src/android/app/src/main/java/com/friendlyscore/connect/cordova/plugin/FriendlyScoreConnectPlugin" /></platform>
+
+<platform name="ios">
+    <config-file target="config.xml" parent="/*">
+        <feature name="FriendlyScoreConnectPlugin">
+            <param name="ios-package" value="FriendlyScoreConnectPlugin" />
+        </feature>
+    </config-file>
+        <header-file src="src/ios/FriendlyScoreConnectPlugin.h" />
+        <source-file src="src/ios/FriendlyScoreConnectPlugin.m" />
+        <source-file src="src/ios/FriendlyScoreSDK.framework" framework="true" />
+</platform>
+
+</plugin>

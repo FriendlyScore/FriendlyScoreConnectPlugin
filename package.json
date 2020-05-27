@@ -5,12 +5,13 @@
   "cordova": {
     "id": "com.friendlyscore.connect.cordova.plugin",
     "platforms": [
-      "android"
+      "android", "ios"
     ]
   },
   "keywords": [
     "ecosystem:cordova",
-    "cordova-android"
+    "cordova-android",
+     "cordova-ios"
   ],
   "author": "",
   "license": "ISC"

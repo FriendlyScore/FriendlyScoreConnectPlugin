@@ -1,0 +1,122 @@
+//
+//  Extensions.swift
+//  FriendlyScoreConnect
+//
+//  Created by FriendlyScore on 14/01/2020.
+//
+
+import Foundation
+ 
+<<<<<<< HEAD
+import UIKit
+=======
+>>>>>>> pfm
+
+public extension Bundle {
+    static var FriendlyScoreConnect:Bundle? {
+        let frameworkBundle = Bundle(for: BankSelectCellCollectionViewCell.self)
+        return frameworkBundle
+    }
+}
+
+<<<<<<< HEAD
+extension UIImageView {
+    func friendlyScoreTint() {
+        self.image = self.image?.withRenderingMode(.alwaysTemplate)
+        self.tintColor = FriendlyScore.tintColor
+=======
+public extension FriendlyScore {
+    static func showPersonalFinanceManager(with credentials:Credentials, theme:Theme = .light) {
+        
+        let nav = BaseNavigationController()
+        FriendlyScore.presentingViewController = UIWindow.topViewController
+        let flowConfigure = FlowConfigure(window: UIWindow.window, navigationController:nav , parent: nil)
+        FriendlyScore.presentingViewController?.present(nav, animated: false, completion: nil)
+        let flow = PersonalFinanceManagerFlowController(configure: flowConfigure, credentials:credentials, theme:theme)
+        flow.start()
+        
+    }
+    
+}
+
+
+import UIKit
+
+extension UIWindow {
+    static var topView: UIView {
+        return UIWindow.topViewController.view
+    }
+
+    static var topViewController: UIViewController {
+        var topViewController = UIApplication.shared.delegate!.window!!.rootViewController!
+        while (topViewController.presentedViewController != nil) {
+            topViewController = topViewController.presentedViewController!
+        }
+        return topViewController
+    }
+    
+    static var window:UIWindow? {
+        guard let delegate = UIApplication.shared.delegate else {
+            return nil
+        }
+        
+        guard let window = delegate.window else {
+            return nil
+        }
+
+        return window
+    }
+}
+
+extension UIColor {
+    public convenience init?(hex: String) {
+        let r, g, b, a: CGFloat
+
+        if hex.hasPrefix("#") {
+            let start = hex.index(hex.startIndex, offsetBy: 1)
+            let hexColor = String(hex[start...])
+
+            if hexColor.count == 8 {
+                let scanner = Scanner(string: hexColor)
+                var hexNumber: UInt64 = 0
+
+                if scanner.scanHexInt64(&hexNumber) {
+                    r = CGFloat((hexNumber & 0xff000000) >> 24) / 255
+                    g = CGFloat((hexNumber & 0x00ff0000) >> 16) / 255
+                    b = CGFloat((hexNumber & 0x0000ff00) >> 8) / 255
+                    a = CGFloat(hexNumber & 0x000000ff) / 255
+
+                    self.init(red: r, green: g, blue: b, alpha: a)
+                    return
+                }
+            }
+            
+            if hexColor.count == 6 {
+                let scanner = Scanner(string: hexColor)
+                var hexNumber: UInt64 = 0
+
+                if scanner.scanHexInt64(&hexNumber) {
+                    r = CGFloat((hexNumber & 0xff0000) >> 16) / 255
+                    g = CGFloat((hexNumber & 0x00ff00) >> 8) / 255
+                    b = CGFloat((hexNumber & 0x0000ff)) / 255
+
+                    self.init(red: r, green: g, blue: b, alpha: 1)
+                    return
+                }
+            }
+        }
+
+        return nil
+    }
+    
+    func toHexString() -> String {
+        var r:CGFloat = 0
+        var g:CGFloat = 0
+        var b:CGFloat = 0
+        var a:CGFloat = 0
+        getRed(&r, green: &g, blue: &b, alpha: &a)
+        let rgb:Int = (Int)(r*255)<<16 | (Int)(g*255)<<8 | (Int)(b*255)<<0
+        return String(format:"#%06x", rgb)
+>>>>>>> pfm
+    }
+}

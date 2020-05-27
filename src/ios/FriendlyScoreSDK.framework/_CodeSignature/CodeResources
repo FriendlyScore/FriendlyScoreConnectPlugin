@@ -6,7 +6,6 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-<<<<<<< HEAD
 		AeS7QW5NrwFbhi9wLg76hNGqq6U=
 		</data>
 		<key>BankConsentViewController.nib</key>
@@ -88,89 +87,6 @@
 		<key>CountrySelectTableViewCell.nib</key>
 		<data>
 		pbUpe0HOeTdekv+sjtxIJR1kGm0=
-=======
-		4dMT85kMJCorlNmzsC12Z9PfAwc=
-		</data>
-		<key>BankConsentViewController.nib</key>
-		<data>
-		MKxi9lH+T97xNFWd8omGhjqz+6w=
-		</data>
-		<key>BankDetailsViewController.nib</key>
-		<data>
-		RpyhS9RZCS7R+MImYrHd83gbLXQ=
-		</data>
-		<key>BankFilterExtendedViewController.nib</key>
-		<data>
-		GZH7TTe6BkcLc/rnxtNoTnaTYV4=
-		</data>
-		<key>BankFilterViewController.nib</key>
-		<data>
-		lNnkd2lJd+r+qKdMexqd9d8Y0YY=
-		</data>
-		<key>BankSelectCellCollectionViewCell.nib/objects-12.3+.nib</key>
-		<data>
-		GiLelIA5GsRtFlrjKTsoQvqqxqE=
-		</data>
-		<key>BankSelectCellCollectionViewCell.nib/runtime.nib</key>
-		<data>
-		N+Sg6FvCIq5txtN6pab4pDBSucs=
-		</data>
-		<key>BankSelectListTableViewCell.nib</key>
-		<data>
-		+fKF+7vxZ1IEq81Dsob36N9kguI=
-		</data>
-		<key>BankSelectListViewController.nib</key>
-		<data>
-		eDzefKA3WKddtuqplpGIV1jSqbQ=
-		</data>
-		<key>BankSelectViewController.nib</key>
-		<data>
-		kiK4hgmS4e2aF/MKBuveh5gpvHw=
-		</data>
-		<key>BankThankYouViewController.nib</key>
-		<data>
-		hJ388y7Nxe7MMGwdofjK5wjmldQ=
-		</data>
-		<key>CodeVerificationViewController.nib</key>
-		<data>
-		MhRucukAR+nUtpB/sD1GhatUTv0=
-		</data>
-		<key>ConfigLoaderViewController.nib</key>
-		<data>
-		FNemyK7q+U43sMZiRqMn9Try9RQ=
-		</data>
-		<key>ConnectedBanksHeaderTableViewCell.nib</key>
-		<data>
-		Nn+SVAVvc3AEs120a7r694PiiUA=
-		</data>
-		<key>ConsentDetailTableViewCell.nib</key>
-		<data>
-		0rryGXD3tSeMCmR/zVPoWLKAuQg=
-		</data>
-		<key>ConsentFooterTableViewCell.nib</key>
-		<data>
-		mDQ5yiaso+DmRJkl4B1VZhjC+oE=
-		</data>
-		<key>ConsentHeaderTableViewCell.nib</key>
-		<data>
-		IAmKE/HaOPnDQSlB79INfF8m4xU=
-		</data>
-		<key>ConsentTableViewCell.nib</key>
-		<data>
-		sqRH/G5D3l3f7be8gErITKs8czY=
-		</data>
-		<key>ConsentTitleTableViewCell.nib</key>
-		<data>
-		tewIEOHs947z8wd+S4bsaRCwOkI=
-		</data>
-		<key>CountrySelectHeaderTableViewCell.nib</key>
-		<data>
-		TUmbmX5YTtB6fLrFiQfmMaPOxd8=
-		</data>
-		<key>CountrySelectTableViewCell.nib</key>
-		<data>
-		Yvv7kSBQF48wlYG8xCNMVU7K4n0=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 		</data>
 		<key>Extensions.swift.orig</key>
 		<data>
@@ -178,7 +94,6 @@
 		</data>
 		<key>FilterButtonTableViewCell.nib</key>
 		<data>
-<<<<<<< HEAD
 		HKD0UHZBJ3KC4eK7zbhbKwzlWPA=
 		</data>
 		<key>FilterPresetTableViewCell.nib</key>
@@ -188,17 +103,6 @@
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
 		<data>
 		sOC93rqGcOsUNDUtyZ82uXtkZSQ=
-=======
-		ZWUeDK16SxybkzoGd40JThf48tQ=
-		</data>
-		<key>FilterPresetTableViewCell.nib</key>
-		<data>
-		YipeTrwctHzCFv06nt2+RrQzjjU=
-		</data>
-		<key>Frameworks/Alamofire.framework/Alamofire</key>
-		<data>
-		vTqNN4N+53mebJyVBPSQRLQS9L0=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 		</data>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
 		<data>
@@ -210,11 +114,7 @@
 		</data>
 		<key>Frameworks/Device.framework/Device</key>
 		<data>
-<<<<<<< HEAD
 		Ia0fNO+piPi6dAsNldRTP2JpFkw=
-=======
-		DDMgZE/HL6OA7wy5q40zNOPxa3Q=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 		</data>
 		<key>Frameworks/Device.framework/Info.plist</key>
 		<data>
@@ -226,11 +126,7 @@
 		</data>
 		<key>Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift</key>
 		<data>
-<<<<<<< HEAD
 		pZDO/g5JlX8kaklcNDRosqe1YJQ=
-=======
-		tLz7txNh2ZvI/CGHyZr5U+7bDOA=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 		</data>
 		<key>Frameworks/IQKeyboardManagerSwift.framework/Info.plist</key>
 		<data>
@@ -246,11 +142,7 @@
 		</data>
 		<key>Frameworks/JGProgressHUD.framework/JGProgressHUD</key>
 		<data>
-<<<<<<< HEAD
 		kL5QsL1GqUu3mmk/jKfzGnA9EiY=
-=======
-		MX06GUVMigKf0grEMda6JqlPhDA=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 		</data>
 		<key>Frameworks/JGProgressHUD.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -262,11 +154,7 @@
 		</data>
 		<key>Frameworks/Kingfisher.framework/Kingfisher</key>
 		<data>
-<<<<<<< HEAD
 		JkGfdUT8tR3MLFAx8sABswO/ejU=
-=======
-		TLvlBe6C9EuZxa1cbBGtDJVsdWo=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 		</data>
 		<key>Frameworks/Kingfisher.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -278,11 +166,7 @@
 		</data>
 		<key>Frameworks/ObjectMapper.framework/ObjectMapper</key>
 		<data>
-<<<<<<< HEAD
 		RjSHh/C6yrCsPaLoRk4npZvAms8=
-=======
-		wf8JmL3oPfZhPhktUDgFqICOKLI=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 		</data>
 		<key>Frameworks/ObjectMapper.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -294,11 +178,7 @@
 		</data>
 		<key>Frameworks/PhoneNumberKit.framework/PhoneNumberKit</key>
 		<data>
-<<<<<<< HEAD
 		tEINCDoLIOxm7ZVezA9tLiiSyf4=
-=======
-		yp5mN4gtBMNPFftGjE8ZHZb5Stk=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 		</data>
 		<key>Frameworks/PhoneNumberKit.framework/PhoneNumberMetadata.json</key>
 		<data>
@@ -314,11 +194,7 @@
 		</data>
 		<key>Frameworks/Result.framework/Result</key>
 		<data>
-<<<<<<< HEAD
 		8IRVsSR1/joiXEu/HA3dyjnJWOk=
-=======
-		GYmyq3BXHd4WO/vQuCKAtVVQyGg=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 		</data>
 		<key>Frameworks/Result.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -330,11 +206,7 @@
 		</data>
 		<key>Frameworks/SnapKit.framework/SnapKit</key>
 		<data>
-<<<<<<< HEAD
 		oQ/Ga6c9Mo1kEIHrRGkLNMIYaU0=
-=======
-		RYo/yRBVtO259UKk6J31qkE3LzA=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 		</data>
 		<key>Frameworks/SnapKit.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -342,11 +214,7 @@
 		</data>
 		<key>GenericScoreSourceViewController.nib</key>
 		<data>
-<<<<<<< HEAD
 		Kpsak1JfWeiJiDnL4aapIBzXEXc=
-=======
-		BkRo+pef6BcICnzmScKsfyzaxf0=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 		</data>
 		<key>Headers/FriendlyScoreSDK-Swift.h</key>
 		<data>
@@ -382,7 +250,6 @@
 		</data>
 		<key>PhoneNumberViewController.nib</key>
 		<data>
-<<<<<<< HEAD
 		+TliOyl7pMIuQZuQbUsrN5pe3S8=
 		</data>
 		<key>SelectTableViewCell.nib</key>
@@ -400,25 +267,6 @@
 		<key>ThankYouTitleTableViewCell.nib</key>
 		<data>
 		Fa3rZwk5tc8+g8z+YVvWwl/gBrE=
-=======
-		l7h+6fHiL81PDSqNKBhfSloWx6w=
-		</data>
-		<key>SelectTableViewCell.nib</key>
-		<data>
-		LPoXkdaqD0h6HkrT3DeOakZOmLs=
-		</data>
-		<key>SelectViewController.nib</key>
-		<data>
-		UkwrEF6RcCQiE3DRtRtXi46w1N4=
-		</data>
-		<key>ThankYouFooterTableViewCell.nib</key>
-		<data>
-		c5g4Wb5YxjdDKlweHT4z54XY8pE=
-		</data>
-		<key>ThankYouTitleTableViewCell.nib</key>
-		<data>
-		p2HP6YmA4RHFGaYq+REi1nJedVA=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
@@ -480,231 +328,147 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			c8FEM/91ZQs+AWbtOO8fKefHn8lqc8OH5Xbk7gzJ8Dg=
-=======
-			RZ/foDIJ26D0TVRfCnMBc6wQqtnO/GCb/KDdbb8yZac=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>BankConsentViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			Ru5JNGYWx4eI9UdbaTM/UwSFy/QTrCERZoFSxSATqz8=
-=======
-			/R/sHNEgA0ZmLS0Wy17LyiYLAmPiNLLTXPN0FU2n4YE=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>BankDetailsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			gSHa2SHGTUS8FlwnZMLMBPLGjBqkKNDeVrP/XtS6Q+s=
-=======
-			tcw+qQeFkwQ8l5jMHFThf1oxvMwjU2D7scNtuUsYMQI=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>BankFilterExtendedViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			cYGo7cS5ua9HvRycztUr0kydMKY0hS87uoSDy1pbWtw=
-=======
-			aGD2QqerisSUvKmfJtdyJqR45RUClb6Dv3PifJRBej8=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>BankFilterViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			2LAECQY2W/6DhVfSrvM0F+KUtvd8E43T8iqqVy4J0tg=
-=======
-			KRpYs36yAENy3w1h0F9JRfzM/TSKT+YapFnQBMNXEBQ=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>BankSelectCellCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			O8il9WDIxMzXbe+pt21jw8WMq+Z7WvibLipgndRIugI=
-=======
-			S3DT6zIeT6I1fuFL4/Op/dJNA3HsuHGtJUEV1kIHFrk=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>BankSelectCellCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			ax1yj/moi3CMgiub9g5e6dlMU+IpJoBWQGa4yT+6w6s=
-=======
-			a9IY20v4f4EdLI8BbUVgxkE23ALz3tvLppdUozo5dyE=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>BankSelectListTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			T6Q9dCzh3HAeK1hkdS0upo/7X2uCHlEV7dsmaWC1+j0=
-=======
-			VcFRmpkPMd8oE2HBzkdAEQjn6XR+HI/f/Mwr1JZi1k8=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>BankSelectListViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			pN+Cl/umx+KON7tn83zBP6TIdgKSj7HyTYIFOLrvVY4=
-=======
-			YBIlZnGORX6sKds5jh9VpoF2FZ0a6xd0qd46zWqey/g=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>BankSelectViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			tfTOE/t+2Am7UjIo3c0wgJeFrfmGZH3kqOeEHWsWQM4=
-=======
-			Dr0pdndtP0WLOlBorSZeWZXHJea6q0cuHyC33sNgwrw=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>BankThankYouViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			Ace9sfcd52oh4HqQ96fsBG2a6UmpEUsce8BAVla+qsQ=
-=======
-			IhZPj/6IagrdsVhjYCqT1qmTeidYCH5fXniQCpTMXyk=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>CodeVerificationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			fl3fHftSbgPHL6YbwmOPpFuo09Uvc184+WKmQ8xOzXY=
-=======
-			LPHPhltKvyUQMpRE0N5Kl+ZIkx5OkiUPCmlLQNC8aJM=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>ConfigLoaderViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			YR41Y1VKU3liCm+oJkc3Aut+Fbd3XxyiRMRp1un9TCE=
-=======
-			P5ekGgJK+PYya0HhJV7eED02gMurJw/QUOuGfQFCIkM=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>ConnectedBanksHeaderTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			pi/NJ/On8JN/JmjQpAdXphBFN7fpp9m4bfsSxxDGZkE=
-=======
-			sLC8toEw+LPObJUN7du7As7O1iwSuHeEqcGYUcDn27M=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>ConsentDetailTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			uCjuxKobehByeHHn1OwH+5jGcetgnr10ehHl9ZEokQ0=
-=======
-			XO+5if6nsH/5PpbLFBOclrCX8nZTARihaUEaM4m8eE4=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>ConsentFooterTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			mkSpPYYPB7oH5dEahIDChud3TSqdlbBmUaImVRzz2P8=
-=======
-			0i9oByqDFihw1kiXldXLyBg+ksdwTT6z5YFXlIufW84=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>ConsentHeaderTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			VyXT8gV0EBzn+qi4bx1aYG8kLxPp4fiCN/bKUKz9Q4Q=
-=======
-			5KHxxXv6txIBliJbiDPlyVG1jq3HHiq2G6TyuDsFIrE=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>ConsentTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			6SPXTSFQQU/gRxnVplTyEuGoJNOl1rSuQdQK6QKZ9UQ=
-=======
-			M3HCopUk1pj25R8S2rXYamUFjOTbzKG0rgKQBQYM260=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>ConsentTitleTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			U93UsrWZrgXitVPxi8yr/djZ81ymxO1anAE4gVNUdno=
-=======
-			Fcnn0vrZ7fOinp6AN+u61UM2QE+6J7AYtxAY47ZrMEU=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>CountrySelectHeaderTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			5jpzLGeGH5Zre99CwCHHgP6hcAs/YjueNrMi50iZ1dc=
-=======
-			c7kR1ko8uLYkI688qfNlNFcrbHNNOzlOe4H2pLyCWVE=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>CountrySelectTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			1QIMmkDSFMzsFsHK8ID0dbw722kjH8Ip+6CVpV45Hkw=
-=======
-			SJLA2+9m2OUTOd0IAeAPmGkwcTdWXh0LCdajmz1XvNE=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>Extensions.swift.orig</key>
@@ -718,33 +482,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			Tjt7A5a2IMGEkC6246YAAIVWgXLRGL24/fhoRBfWwyE=
-=======
-			0EW5YqXtelEjisp+NKxfAydOjf7Z9R5UiaG2F0ehRUc=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>FilterPresetTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			0AlSdSjM5xvuOuupPn0IXTfctyqlelazqBZZfKYDDBQ=
-=======
-			VIpKX6L2smif08H82jVHEEiQJYfiDLrkf3n7BBGXAMI=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			nZb5h9/udy9chY6HR2dKQpHcShjBXPHG3OXyQpKstyA=
-=======
-			FKlGqkW+4T9O/zSoT7BFJuUQBqkKmL4RnmOietxtwM4=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
@@ -765,11 +517,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			10JEU1dfNQoOxAd8wUrj65+u5fknb3WtCbMqQrpqD1A=
-=======
-			0epqSxd/qJGrLlZvMGAv8i+ityoVGX+DTqRarnd05Z4=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>Frameworks/Device.framework/Info.plist</key>
@@ -790,11 +538,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			Jt9d8FywBgDX3dW9ncw3XHUQPeI24Wd2yL2GNnAB3VU=
-=======
-			XilAvxhr68CC9LQX0O9P8yQwjplQBWfKrgoqb16MzXA=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>Frameworks/IQKeyboardManagerSwift.framework/Info.plist</key>
@@ -822,11 +566,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			KR0YM5iv2+6Unl76d0PEacnVJy7muzYlnLT2bLW8G8I=
-=======
-			LAd5cFlYXVWRHkT+MppjEVnx+sQe2GdWNVuv4OMFAFk=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>Frameworks/JGProgressHUD.framework/_CodeSignature/CodeResources</key>
@@ -847,11 +587,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			2OqoVHVaNVPrOxdiXh6+AOBxVESfdufnawrj9dAA2Ys=
-=======
-			7XrCZRYwkPLfE6YohjrWAfd6DHvP+qiCPOClOxw0hiY=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>Frameworks/Kingfisher.framework/_CodeSignature/CodeResources</key>
@@ -872,11 +608,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			qZVdeaakwUXcMags3YGcjbKlVWB3IuffAJz5AfTptHE=
-=======
-			ag7wnU07raEUuskRk143RwC4jRIC2AqcUQnSIz7Qtgc=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>Frameworks/ObjectMapper.framework/_CodeSignature/CodeResources</key>
@@ -897,11 +629,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			wZlyRM0d6cDz5oue/md+Nx5Boxw4+yvj5+gYgYtH4tU=
-=======
-			mvbukhNrfhzAPSuX5pKFSWDtubeRiR6B4pC7OdrNL0I=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>Frameworks/PhoneNumberKit.framework/PhoneNumberMetadata.json</key>
@@ -929,11 +657,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			hUczqz3QNhoMeA8l0TyATep8W5GZkv+iWX6vanGyN+Q=
-=======
-			y+yh2YJPk8qa+/QKMqPYIFNWQmzVrS0eiVXOyTI32Po=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>Frameworks/Result.framework/_CodeSignature/CodeResources</key>
@@ -954,11 +678,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			cJw7g67ruI2CumSFmjRAwm6i+AYQiXysw/OGxmyb8FQ=
-=======
-			VIEUV193WRsQ34GdtH3GZ/Uyt4f/TGCEsbDJ+tfmchw=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>Frameworks/SnapKit.framework/_CodeSignature/CodeResources</key>
@@ -972,11 +692,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			SlG7Czj88QUV8fURDc/lvxe9WGZZIMejreWAt+EnhKY=
-=======
-			5nPtttW4NK4ArAxEgaKWhpOeGDStZchb09cSBC5Mpcg=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>Headers/FriendlyScoreSDK-Swift.h</key>
@@ -1032,55 +748,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			ZdMUbO6fZz1q57Labqxg9iS2uQcqtVihEJq2Uvsf6sg=
-=======
-			TEYFK1bu3pLslWFMR3R5XkRTQ8VxGQTJNesAz0cngRs=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>SelectTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			kGOYeRXdORQXxFI7h9Om5/yDdlIUlBF+2avq4N+2akU=
-=======
-			U38Kxwc3Yq0YcaIxWdBfg1Yem5fzfLZVskO9CDmDghg=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>SelectViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			h/gxgWjTanHIpbeoZ9ubUMywjEpYEzp+ZVsf9EyqeoI=
-=======
-			FdOh5kzhVecXZjmT3AUjpwQUW9PIridyyPcA6oKtIbs=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>ThankYouFooterTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			uJt0v24qPFlr10yMOZlInY8ahhcfBf9AOiVDRgR6DM8=
-=======
-			bjFMmobn6U5LMk3JBEcDjgWcvGDvGBNp7x9U4Hvmzm0=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>ThankYouTitleTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			XZKvknh2MalQ0rnBheHXXOgMpGmu9CIIbmTanKdJN4k=
-=======
-			0l8EmMbgAmqF9mqjzO87/nH98FW6IPF6PP2KCPTdCJo=
->>>>>>> 3b2e041a124fb4d0d0549b53d3b057a3146a4efd
 			</data>
 		</dict>
 		<key>en.lproj/Localizable.strings</key>
